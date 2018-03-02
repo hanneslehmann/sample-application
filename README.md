@@ -12,3 +12,4 @@ RESTful API to manage movies written in Go and uses MongoDB as storage
 - [ ] Add library to read environment variables
 - [ ] Add library to read arguments / parameters
 - [ ] Add more to dos
+- [ ] Add WebGUI
